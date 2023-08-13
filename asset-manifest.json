@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.2d289b0b.css",
-    "main.js": "/developer-portfolio/static/js/main.3fa460f8.js",
+    "main.js": "/developer-portfolio/static/js/main.580dbcfa.js",
     "static/js/787.04e84a3f.chunk.js": "/developer-portfolio/static/js/787.04e84a3f.chunk.js",
     "static/media/placeholder.png": "/developer-portfolio/static/media/placeholder.3fcbbdcd05f3e458d129.png",
     "static/media/seven.svg": "/developer-portfolio/static/media/seven.d5cabb8e4cedec31fdf59721d8a6fe76.svg",
+    "static/media/Image.jpeg": "/developer-portfolio/static/media/Image.cf1248c5bb685f6894dc.jpeg",
     "static/media/BestermindRegular.ttf": "/developer-portfolio/static/media/BestermindRegular.e58a192233afb30a6a59.ttf",
     "static/media/eight.svg": "/developer-portfolio/static/media/eight.055ac6c9fb5bcc42527cc3860cc42d9a.svg",
     "static/media/six.svg": "/developer-portfolio/static/media/six.04a89b5f564d6e1fa0d5160e3dc5db42.svg",
@@ -97,11 +98,11 @@
     "static/media/serverless.svg": "/developer-portfolio/static/media/serverless.3b018794f3a10fd19aec4acc8a7fc120.svg",
     "static/media/bulma.svg": "/developer-portfolio/static/media/bulma.12ecb7941234000a2fe38a48cbce30da.svg",
     "main.2d289b0b.css.map": "/developer-portfolio/static/css/main.2d289b0b.css.map",
-    "main.3fa460f8.js.map": "/developer-portfolio/static/js/main.3fa460f8.js.map",
+    "main.580dbcfa.js.map": "/developer-portfolio/static/js/main.580dbcfa.js.map",
     "787.04e84a3f.chunk.js.map": "/developer-portfolio/static/js/787.04e84a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d289b0b.css",
-    "static/js/main.3fa460f8.js"
+    "static/js/main.580dbcfa.js"
   ]
 }
